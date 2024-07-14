@@ -249,46 +249,6 @@ https://live.0472.org/ysp/cctv17
 https://live.0472.org/ysp/cctv4k
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视备用",CCTV-8K 超高清
 https://live.0472.org/ysp/cctv8k
-#EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://live.fanmingming.com/tv/兵器科技.png" group-title="央视备用",CCTV兵器科技
-https://live.0472.org/ysp/cctv-bingqikeji
-#EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://live.fanmingming.com/tv/第一剧场.png" group-title="央视备用",CCTV第一剧场
-https://live.0472.org/ysp/cctv-diyijuchang
-#EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视备用",CCTV怀旧剧场
-https://live.0472.org/ysp/cctv-huaijiujuchang
-#EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://live.fanmingming.com/tv/风云剧场.png" group-title="央视备用",CCTV风云剧场
-https://live.0472.org/ysp/cctv-fengyunjuchang
-#EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://live.fanmingming.com/tv/风云音乐.png" group-title="央视备用",CCTV风云音乐
-https://live.0472.org/ysp/cctv-fengyunyinyue
-#EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://live.fanmingming.com/tv/风云足球.png" group-title="央视备用",CCTV风云足球
-https://live.0472.org/ysp/cctv-fengyunzuqiu
-#EXTINF:-1 tvg-id="电视指南" tvg-name="电视指南" tvg-logo="https://live.fanmingming.com/tv/电视指南.png" group-title="央视备用",CCTV电视指南
-https://live.0472.org/ysp/cctv-dianshizhinan
-#EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视备用",CCTV女性时尚
-https://live.0472.org/ysp/cctv-nvxingshishang
-#EXTINF:-1 tvg-id="文化精品" tvg-name="文化精品" tvg-logo="https://live.fanmingming.com/tv/文化精品.png" group-title="央视备用",CCTV文化精品
-https://live.0472.org/ysp/cctv-wenhuajingpin
-#EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://live.fanmingming.com/tv/世界地理.png" group-title="央视备用",CCTV世界地理
-https://live.0472.org/ysp/cctv-shijiedili
-#EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://live.fanmingming.com/tv/高尔夫网球.png" group-title="央视备用",CCTV高尔夫网球
-https://live.0472.org/ysp/cctv-gaoerfuwangqiu
-#EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://live.fanmingming.com/tv/央视台球.png" group-title="央视备用",CCTV央视台球
-https://live.0472.org/ysp/cctv-yangshitaiqiu
-#EXTINF:-1 tvg-id="卫生健康" tvg-name="卫生健康" tvg-logo="https://live.fanmingming.com/tv/卫生健康.png" group-title="央视备用",CCTV卫生健康
-https://live.0472.org/ysp/cctv-weishengjiankang
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视备用",CGTN英语
-https://live.0472.org/ysp/cgtn
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视备用",CGTN纪录
-https://live.0472.org/ysp/cgtn-dockmentary
-#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视备用",CGTN西语
-https://live.0472.org/ysp/cgtn-spanish
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视备用",CGTN法语
-https://live.0472.org/ysp/cgtn-french
-#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视备用",CGTN阿语
-https://live.0472.org/ysp/cgtn-arabic
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视备用",CGTN俄语
-https://live.0472.org/ysp/cgtn-russian
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视备用",CETV-1
-https://live.0472.org/ysp/cetv1
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://live.fanmingming.com/tv/北京卫视.png" group-title="卫视备用",北京卫视
 https://live.0472.org/ysp/beijing
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.fanmingming.com/tv/东方卫视.png" group-title="卫视备用",东方卫视
@@ -335,5 +295,19 @@ https://live.0472.org/ysp/sichuan
 https://live.0472.org/ysp/xinjiang
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png" group-title="卫视备用",海南卫视
 https://live.0472.org/ysp/hainan
+#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视备用",CGTN英语
+https://live.0472.org/ysp/cgtn
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN记录.png" group-title="央视备用",CGTN纪录
+https://live.0472.org/ysp/cgtn-dockmentary
+#EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://live.fanmingming.com/tv/CGTN西语.png" group-title="央视备用",CGTN西语
+https://live.0472.org/ysp/cgtn-spanish
+#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://live.fanmingming.com/tv/CGTN法语.png" group-title="央视备用",CGTN法语
+https://live.0472.org/ysp/cgtn-french
+#EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://live.fanmingming.com/tv/CGTN阿语.png" group-title="央视备用",CGTN阿语
+https://live.0472.org/ysp/cgtn-arabic
+#EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png" group-title="央视备用",CGTN俄语
+https://live.0472.org/ysp/cgtn-russian
+#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://live.fanmingming.com/tv/CETV1.png" group-title="央视备用",CETV-1
+https://live.0472.org/ysp/cetv1
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://live.fanmingming.com/tv/兵团卫视.png" group-title="卫视备用", 兵团卫视
 https://live.0472.org/ysp/bingtuan
